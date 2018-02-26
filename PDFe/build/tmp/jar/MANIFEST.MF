@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Build-Date: Wed Jan 10 11:57:50 IST 2018
+Built-By: Eclipse Plugin for ThingWorx Extension Development 7.2.0.201
+ 608021836
+Created-By: 1.8.0_152 (Oracle Corporation 25.152-b16)
+
+Name: PDFe
+Package-Version: 1.0.0
+Package-Title: PDFe
+Package-Vendor: 
+

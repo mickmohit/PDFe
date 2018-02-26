@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="7.2.15" name="PDFe" packageVersion="1.0.0" vendor="">
+            <JarResources>
+                <FileResource description="" file="pdfe.jar" type="JAR"/>
+            </JarResources>
+        </ExtensionPackage>
+    </ExtensionPackages>
+    <ThingPackages>
+        <ThingPackage className="com.thingworx.practise.FirstPdfe" description="" name="FirstPdfePackage"/>
+    </ThingPackages>
+    <ThingTemplates>
+        <ThingTemplate aspect.isEditableExtensionObject="false" description="" name="FirstPdfe" thingPackage="FirstPdfePackage"/>
+    </ThingTemplates>
+</Entities>
+
